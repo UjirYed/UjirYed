@@ -1,5 +1,7 @@
 ## Hi there 👋
 Hi, I'm Riju! I'm a CompE student at Columbia University interested in Systems Research and Software Engineering.
+
+My past projects include Linux kernel development, wireless communications, and applying machine learning to biomedical engineering.
 ## Programming languages
 [![My Langs](https://skillicons.dev/icons?i=python,c,go,latex)](https://skillicons.dev)
 <!--
