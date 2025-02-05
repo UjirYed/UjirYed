@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hi, I'm Riju! I'm a CompE student at Columbia University interested in Systems Research and Software Engineering.
+## Programming languages
+[![My Langs](https://skillicons.dev/icons?i=python,c,go,latex)](https://skillicons.dev)
 <!--
 **UjirYed/UjirYed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
